@@ -10,9 +10,10 @@
 1. open terminal
 2. write >>> git clone <-https link copied from repository ->
 
-## To go to a new folder
+## To go to a new folder and exit folder
 1. open terminal
 2. write >>> cd <-foldername->
+3. write >>> cd .. (this code will exit folder)
 
 ## add and commit local code 
 1. open terminal
