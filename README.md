@@ -14,8 +14,12 @@
 1. open terminal
 2. write >>> cd <-foldername->
 
-## add and commit local code for repository
+## add and commit local code 
 1. open terminal
 2. write >>> git add <-file name-> (for the file only)
 3. write >>> git add .  (for all file)
 4. write >>> git commit -m "Some message"
+
+## Push your code in repository
+1. open terminal
+2. write >>> git push origin main
