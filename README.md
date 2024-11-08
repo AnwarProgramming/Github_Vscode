@@ -16,5 +16,6 @@
 
 ## add and commit local code for repository
 1. open terminal
-2. write >>> git add <-file name->
-3. 
+2. write >>> git add <-file name-> (for the file only)
+3. write >>> git add .  (for all file)
+4. write >>> git commit -m "Some message"
